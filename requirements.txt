@@ -1,0 +1,2 @@
+# Optional; deterministic local mode has no external dependencies.
+openai>=1.0.0
